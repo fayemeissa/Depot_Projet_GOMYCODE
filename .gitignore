@@ -1,0 +1,7 @@
+# Fichiers système
+.DS_Store
+
+# Fichiers temporaires
+*.log
+*.tmp
+.vscode/
